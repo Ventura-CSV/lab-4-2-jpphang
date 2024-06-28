@@ -11,6 +11,7 @@ def main():
         
         total += user_input
         
+    print(total)        
 
     ########################################
     # Do not delete the return statement
