@@ -5,6 +5,8 @@ def main():
     ########################################
     """
     total = 0
+    
+    for i in range(5)
 
     ########################################
     # Do not delete the return statement
